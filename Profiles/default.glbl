@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://52.14.77.141/bookstore/'</initValue>
+      <name>root_url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'C:\\003-bootstrap.zip'</initValue>
+      <name>file_location</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

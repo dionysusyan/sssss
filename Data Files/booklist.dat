@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>booklist</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4d0d6969-d846-4679-b3c8-511dc1e7e05f</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Milk+and+Honey 9781449474256 25 18</data>
+   <data>The+Gathering 9781449474342 20 50</data>
+   <data>Tale+of+Zelda 9781449474453 33.4 21</data>
+   <data>Cooking+Book 9781449474323 99.9 4</data>
+   <data>Understanding+People 9781349471231 99.4 0</data>
+   <data>Happy+in+Workplace 9781434474234 94 1</data>
+   <data>Founder+of+Php 9781449474221 34 1</data>
+   <data>PHP+Soup 9781442374221 20.5 0</data>
+   <data>SQL+in+Nutshell 9781129474251 21.5 2</data>
+   <data>Brief+History+of+Time 9781449474211 20 23</data>
+   <data>Albert+Enstein%27s+Works 9781449474223 18 7</data>
+   <data>How+to+Cook+a+Cake 9781449474224 5 11</data>
+   <data>It 9781449474212 1 2</data>
+   <data>Interstellar 9781449474254 10 4</data>
+   <data>Happy+Cooking 9781449474257 15.5 20</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>title</name>
+      <size>15</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>isbn13</name>
+      <size>15</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>price</name>
+      <size>15</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>availability</name>
+      <size>15</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
